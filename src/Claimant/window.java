@@ -101,8 +101,8 @@ public class window {
     private JFormattedTextField STSurgency;
 	public String s = null;
 	private JButton btnNewButton_1;
-	public String ProductionLoginURL = "https://partner.beacon.labor.maryland.gov/ReBEACONStaff/Account/Login";
-	public String ClaimantLookupURL = "https://partner.beacon.labor.maryland.gov/ReBEACONClaimant#/spa/wfmMSSHomeMaintenance/";
+	public String ProductionLoginURL = "";
+	public String ClaimantLookupURL = "";
 	public String ClaimantID;
 	private static final String USER_AGENT = "Mozilla/5.0";
     private static String POST_PARAMS;
